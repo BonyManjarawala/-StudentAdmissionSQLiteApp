@@ -1,6 +1,6 @@
 # -StudentAdmissionSQLiteApp
 
-It's a simple Student Admission Application ,with SQLite
+It is a simple Student Admission Application ,with SQLite
 
 UIElements
 
